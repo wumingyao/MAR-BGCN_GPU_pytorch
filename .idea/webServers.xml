@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2464cd34-d0e5-4c1b-81ec-b7e56a544107" name="MRABGCN">
+        <fileTransfer rootFolder="/public/lhy/wmy/MRABGCN" accessType="SFTP" host="122.112.235.3" port="9015" sshConfigId="f5309e32-e439-40a8-a5d7-f440bd47453f" sshConfig="lhy@122.112.235.3:9015 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
